@@ -1,0 +1,58 @@
+#menu {
+	background-color: lightblue;
+	padding: 10px;
+	height: 30px;
+}
+
+#menu > ul > li {
+	display: inline-block;
+}
+
+#first-section {
+	background-color: cornsilk;
+	padding: 20px;
+}
+
+#pricing-container {
+	background-color: cornsilk;
+	text-align: center;
+	justify-content: center;
+}
+
+.pricing-box {
+	height: 500px;
+	width: 25%;
+	margin: 1%;
+	text-align: center;
+	display: inline-block;
+}
+
+.low {
+	background-color: pink;
+}
+
+.med {
+	background-color: orange;
+}
+
+.high {
+	background-color: lightgreen;
+}
+
+.price {
+	font-size: 3em;
+}
+
+.price-symbol, .price-frequency {
+	font-size: .4em;
+}
+
+#call-to-action {
+	background-color: lightgreen;
+	height: 400px;
+}
+
+footer {
+	background-color: silver;
+	height: 100px;
+}
